@@ -2,7 +2,7 @@
   "name": "ksense-code-challenge-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rob7v18.github.io",
+  "homepage": "https://rob7v18.github.io/KSense_Code_Challenge_React_App",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
